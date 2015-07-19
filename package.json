@@ -1,0 +1,18 @@
+{
+  "name": "authProject",
+  "version": "1.1.0",
+  "description": "authProject with nodeJs, HapiJs, mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Aymone",
+  "license": "ISC",mon'
+  "dependencies": {
+    "hapi": "^8.2.0",
+    "hapi-auth-cookie": "^2.0.0",
+    "joi": "^4.6.2",
+    "mongoose": "^3.8.24",
+    "passport-local-mongoose": "^0.3.0"
+  }
+}
